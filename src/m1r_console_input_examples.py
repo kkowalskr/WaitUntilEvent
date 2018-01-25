@@ -5,11 +5,11 @@ This module demonstrates how to INPUT from the CONSOLE:
   -- strings.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Kenny Kowalski.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ########################################################################
-# TODO: 2.  Read and run this program.  Then do the following problems,
+# DONE: 2.  Read and run this program.  Then do the following problems,
 #   putting your answers RIGHT HERE IN THIS DOCUMENT.
 #
 #   1. Write a line of code that would input an INTEGER from the
@@ -19,11 +19,11 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 #   2. Write a line of code that would input an FLOAT from the console,
 #      storing the float in a variable called 'x'.
 #      Write your line here:
-#
+#  x = int(input('Input an Integer:'))
 #   3. Write a line of code that would input an STRING from the console,
 #      storing the string in a variable called 'x'.
 #      Write your line here:
-#
+#   x = input('Input a String:')
 #   4. What happens if you (the user) enter something OTHER than a
 #      single integer (e.g., you enter
 #        five
@@ -35,7 +35,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 #        nothing at all (just press the Enter key)
 #      -- try them!) when running the   input_an_integer   example?
 #      Put your answer here:
-#
+#       Error invalid literal
 #   After you have PUT YOUR ANSWERS IN THIS COMMENT as described above,
 #     a. Find someone who has had HER answer checked.
 #        Ask her to check YOUR answers to the above.
